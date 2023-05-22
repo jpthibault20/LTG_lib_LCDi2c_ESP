@@ -5,6 +5,7 @@ de cette manière toutes les librairies / components sont importé
 
 (librairies / components nons spimplifé)
 
+code exemple pour utiliser le component
 ```c
 /****************************   include     ****************************/
 #include <stdio.h>
