@@ -1,4 +1,4 @@
-# Exemple de code utilisant le component LCD
+# Libraire / component pour LCD utilisant i2c
 
 dans le CMAKE : ``` set(EXTRA_COMPONENT_DIRS ../LTG_lib/)```
 de cette manière toutes les librairies / components sont importé
