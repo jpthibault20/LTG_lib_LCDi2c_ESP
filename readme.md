@@ -45,7 +45,8 @@ lcd_handle_t lcd_handle = LCD_HANDLE_DEFAULT_CONFIG();
 void app_main(void)
 {
     initialise();
-    test();
+    
+    //test();
 
     while (true)
     {
