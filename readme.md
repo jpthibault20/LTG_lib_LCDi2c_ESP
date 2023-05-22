@@ -4,7 +4,7 @@ de cette manière toutes les librairies / component sont impoté
 
 
 
-
+```c
 /****************************   include     ****************************/
 #include <stdio.h>
 #define LOG_LOCAL_LEVEL ESP_LOG_INFO
@@ -99,3 +99,4 @@ static void lcd_demo(void)
 
     vTaskDelete(NULL);
 }
+```
