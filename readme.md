@@ -1,9 +1,9 @@
 # Exemple de code utilisant le component LCD
 
 dans le CMAKE : ``` set(EXTRA_COMPONENT_DIRS ../LTG_lib/)```
-de cette manière toutes les librairies / component sont impoté
+de cette manière toutes les librairies / components sont importé
 
-
+(librairies / components nons spimplifé)
 
 ```c
 /****************************   include     ****************************/
