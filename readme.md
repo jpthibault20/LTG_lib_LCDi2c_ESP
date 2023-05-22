@@ -1,6 +1,6 @@
-#Exemple de code utilisant le component LCD
+# Exemple de code utilisant le component LCD
 
-dans le CMAKE : ```cset(EXTRA_COMPONENT_DIRS ../LTG_lib/)```
+dans le CMAKE : ``` set(EXTRA_COMPONENT_DIRS ../LTG_lib/)```
 de cette manière toutes les librairies / component sont impoté
 
 
