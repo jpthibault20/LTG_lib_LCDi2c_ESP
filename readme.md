@@ -5,6 +5,17 @@ de cette manière toutes les librairies / components sont importé
 
 (librairies / components nons spimplifé)
 
+Exemple d'organisation des répertoirs de projet et composants
+```
+LTG_tech projet
+    |
+    |   LTG_Lib
+    |      |   LTG_lib_lcdi2c_ESP
+    |
+    |   LTG Projet ...
+ ```   
+
+
 #### ⚈ code exemple pour utiliser le component
 ```c
 /****************************   include     ****************************/
